@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成"
+  short_description: "把文章提炼成 5-8 张知识卡片，信息不足时少输出，不编造"
+  default_prompt: "使用 $make-knowledge-cards 把这篇文章提炼成知识卡片。"
